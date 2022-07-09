@@ -32,3 +32,17 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
+
+.itens{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tamanho_texto{
+    font-size: 25px;
+}
+
+.tamanho_preco{
+    font-size: 20px;
+}
+
